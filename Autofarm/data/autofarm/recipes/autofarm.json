@@ -1,0 +1,23 @@
+{
+    "type": "crafting_shaped",
+    "group": "autofarm",
+    "pattern": [
+      "# #",
+      " X ",
+      " Y "
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:diamond_hoe"
+      },
+      "X": {
+        "item": "minecraft:trapped_chest"
+      },
+      "Y": {
+        "item": "minecraft:redstone"
+      }
+    },
+    "result": {
+      "item": "minecraft:trapped_chest"
+    }
+  }
